@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Accelerometer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="hint_ip">86.38.217.125</string>
+    <string name="hint_port">6066</string>
+    
+    <string name="httpGetEnding">:8080/WebServerTest/index/getp.htm</string>
+    <string name="httpPostEnding">:8080/WebServerTest/index/posts.htm</string>
+</resources>
